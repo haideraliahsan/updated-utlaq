@@ -1,0 +1,6 @@
+module Pods_UTalq_UTalqTests {
+  umbrella header "Pods-UTalq-UTalqTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
